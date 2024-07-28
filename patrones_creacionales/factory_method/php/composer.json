@@ -1,0 +1,17 @@
+{
+  "name": "efren/patrones-de-disenyo",
+  "description": "Ejemplos de dpatrones de diseño",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Efren",
+      "email": "50155831+EfrenAS@users.noreply.github.com"
+    }
+  ],
+  "require": {}
+}
